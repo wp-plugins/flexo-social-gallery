@@ -1,0 +1,46 @@
+=== flexo-social-gallery===
+
+Plugin Name: flexo-social-gallery
+Contributors: flexostudio
+Tags:gallery, nggallery, pics, images
+Author: Grigor Grigorov, Mariela Stefanova, Flexo Studio Team
+Plugin URI: http://www.flexostudio.com/wordpress-plugins-flexo-utils.html
+Description:
+Version: 1.0001 
+Stable tag:1.0001
+Requires at least:3.0
+Tested up to: 3.0
+
+Gallery fully integrated in facebook with like and comments for each picture
+
+== Description ==
+
+Make your own gallery of NextGen Gallery with facebook like and comments
+for each photo separately
+
+== Installation ==
+
+1.	Download.
+2.	Unzip.
+3.	Upload to the plugins directory.
+4.	Activate the plugin.
+5.	Have a nice work.
+
+== How to use ==
+
+Put simply following the publication of the place where you 
+want to show the gallery:
+
+[flexogallery GalleryID='3'nav='up'], whete GalleryID is galleryID fron NextGen and
+nav is the position of the navigation field images
+
+nav assumes values 'up', 'down', 'without'
+
+== Screenshots ==
+.
+== Frequently Asked Questions ==
+.
+== Changelog ==
+.
+== Upgrade Notice ==
+.
